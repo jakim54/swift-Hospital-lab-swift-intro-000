@@ -11,7 +11,7 @@ struct AdvisoryBoardMember {
     }
 }
 
-
+extension AdvisoryBoardMember: Payable, TimeOff {}
 
 
 
